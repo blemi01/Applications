@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="cee57164db9268101161f3e51d96198a" sys_domain="global" table="x_snc_aml_txn_aml_transactions" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>dond</sys_created_by>
+            <sys_created_on>2021-02-09 21:34:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eae57164db9268101161f3e51d9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_aml_txn_aml_transactions" name="x_snc_aml_txn_aml_transactions" sys_domain="global" view="Default view">cee57164db9268101161f3e51d96198a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_aml_txn_aml_transactions" sys_domain="global" view="Default view">9ae57164db9268101161f3e51d9619a6</sys_ui_section>
+            <sys_updated_by>dond</sys_updated_by>
+            <sys_updated_on>2021-02-09 21:34:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>dond</sys_created_by>
+            <sys_created_on>2021-02-09 21:34:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92e57164db9268101161f3e51d9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_aml_txn_aml_transactions" name="x_snc_aml_txn_aml_transactions" sys_domain="global" view="Default view">cee57164db9268101161f3e51d96198a</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_snc_aml_txn_aml_transactions" sys_domain="global" view="Default view">d6e57164db9268101161f3e51d961991</sys_ui_section>
+            <sys_updated_by>dond</sys_updated_by>
+            <sys_updated_on>2021-02-09 21:34:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>dond</sys_created_by>
+            <sys_created_on>2021-02-09 21:34:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96e57164db9268101161f3e51d9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_aml_txn_aml_transactions" name="x_snc_aml_txn_aml_transactions" sys_domain="global" view="Default view">cee57164db9268101161f3e51d96198a</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_aml_txn_aml_transactions" sys_domain="global" view="Default view">96e57164db9268101161f3e51d9619a2</sys_ui_section>
+            <sys_updated_by>dond</sys_updated_by>
+            <sys_updated_on>2021-02-09 21:34:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>dond</sys_created_by>
+            <sys_created_on>2021-02-09 21:34:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2e57164db9268101161f3e51d961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_aml_txn_aml_transactions" name="x_snc_aml_txn_aml_transactions" sys_domain="global" view="Default view">cee57164db9268101161f3e51d96198a</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_snc_aml_txn_aml_transactions" sys_domain="global" view="Default view">12e57164db9268101161f3e51d96198d</sys_ui_section>
+            <sys_updated_by>dond</sys_updated_by>
+            <sys_updated_on>2021-02-09 21:34:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_aml_txn_aml_transactions</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>dond</sys_created_by>
+            <sys_created_on>2021-02-09 21:34:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cee57164db9268101161f3e51d96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_aml_txn_aml_transactions</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AML Transaction Case" source="x_snc_aml_txn">eddba5a8db5268101161f3e51d9619b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AML Transaction Case">eddba5a8db5268101161f3e51d9619b9</sys_scope>
+            <sys_update_name>sys_ui_form_sections_cee57164db9268101161f3e51d96198a</sys_update_name>
+            <sys_updated_by>dond</sys_updated_by>
+            <sys_updated_on>2021-02-09 21:34:09</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

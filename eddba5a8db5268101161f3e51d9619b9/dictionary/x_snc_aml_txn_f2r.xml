@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sn_customerservice_case" label="F2R Transaction" max_length="40" name="x_snc_aml_txn_f2r" sizeclass="0" type="collection">
+        <element label="Assigned by" max_length="32" name="assigned_by" reference="sys_user" type="reference"/>
+        <element label="Cont Filing" max_length="40" name="cont_filing" type="boolean"/>
+        <element label="Date F2R to be Returned to PCB" max_length="40" name="date_f2r_to_be_returned_to_pcb" type="glide_date"/>
+        <element label="Date Sent to M1S" max_length="40" name="date_sent_to_m1s" type="glide_date"/>
+        <element label="Days Until Due" max_length="40" name="days_until_due" type="integer"/>
+        <element label="F2R Number" max_length="25" name="f2r_number" type="string"/>
+        <element label="Name" max_length="50" name="name" type="string"/>
+        <element label="# of Trnx Filed" max_length="40" name="of_trnx_filed" type="integer"/>
+        <element label="QA Completed" max_length="40" name="qa_completed" type="boolean"/>
+        <element label="SAS Case ID" max_length="25" name="sas_case_id" type="string"/>
+    </element>
+</database>

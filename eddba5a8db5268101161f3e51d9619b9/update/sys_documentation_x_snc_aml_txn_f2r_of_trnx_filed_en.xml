@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="of_trnx_filed" label="# of Trnx Filed" language="en" table="x_snc_aml_txn_f2r">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>of_trnx_filed</element>
+            <help/>
+            <hint/>
+            <label># of Trnx Filed</label>
+            <language>en</language>
+            <name>x_snc_aml_txn_f2r</name>
+            <plural># of Trnx Filed</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>dond</sys_created_by>
+            <sys_created_on>2021-02-09 21:29:48</sys_created_on>
+            <sys_id>16e4f124db9268101161f3e51d96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name># of Trnx Filed</sys_name>
+            <sys_package display_value="AML Transaction Case" source="x_snc_aml_txn">eddba5a8db5268101161f3e51d9619b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AML Transaction Case">eddba5a8db5268101161f3e51d9619b9</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_aml_txn_f2r_of_trnx_filed_en</sys_update_name>
+            <sys_updated_by>dond</sys_updated_by>
+            <sys_updated_on>2021-02-09 21:29:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

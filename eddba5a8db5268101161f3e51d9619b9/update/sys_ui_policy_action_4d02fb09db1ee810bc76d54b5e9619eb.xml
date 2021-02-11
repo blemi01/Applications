@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>opened_at</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2021-02-11 19:53:47</sys_created_on>
+        <sys_id>4d02fb09db1ee810bc76d54b5e9619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>opened_at</sys_name>
+        <sys_package display_value="AML Transaction Case" source="x_snc_aml_txn">eddba5a8db5268101161f3e51d9619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AML Transaction Case">eddba5a8db5268101161f3e51d9619b9</sys_scope>
+        <sys_update_name>sys_ui_policy_action_4d02fb09db1ee810bc76d54b5e9619eb</sys_update_name>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2021-02-11 19:53:47</sys_updated_on>
+        <table>x_snc_aml_txn_em60d</table>
+        <ui_policy display_value="Make Open fields Read Only">c6c13b09db1ee810bc76d54b5e9619b0</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

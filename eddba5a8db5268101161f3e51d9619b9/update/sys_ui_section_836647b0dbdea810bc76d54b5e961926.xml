@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Closure Information" section_id="836647b0dbdea810bc76d54b5e961926" sys_domain="global" table="x_snc_aml_txn_em60d" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_by</element>
+            <position>0</position>
+            <sys_created_by>dond</sys_created_by>
+            <sys_created_on>2021-02-11 20:25:40</sys_created_on>
+            <sys_id>de69bf49db1ea8101161f3e51d961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_snc_aml_txn_em60d" sys_domain="global" view="49979926db052010bc76d54b5e961917">836647b0dbdea810bc76d54b5e961926</sys_ui_section>
+            <sys_updated_by>dond</sys_updated_by>
+            <sys_updated_on>2021-02-11 20:25:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resolution_code</element>
+            <position>1</position>
+            <sys_created_by>dond</sys_created_by>
+            <sys_created_on>2021-02-11 20:25:40</sys_created_on>
+            <sys_id>5669bf49db1ea8101161f3e51d961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_snc_aml_txn_em60d" sys_domain="global" view="49979926db052010bc76d54b5e961917">836647b0dbdea810bc76d54b5e961926</sys_ui_section>
+            <sys_updated_by>dond</sys_updated_by>
+            <sys_updated_on>2021-02-11 20:25:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>dond</sys_created_by>
+            <sys_created_on>2021-02-11 20:25:40</sys_created_on>
+            <sys_id>da69bf49db1ea8101161f3e51d961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_snc_aml_txn_em60d" sys_domain="global" view="49979926db052010bc76d54b5e961917">836647b0dbdea810bc76d54b5e961926</sys_ui_section>
+            <sys_updated_by>dond</sys_updated_by>
+            <sys_updated_on>2021-02-11 20:25:40</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_at</element>
+            <position>3</position>
+            <sys_created_by>dond</sys_created_by>
+            <sys_created_on>2021-02-11 20:25:40</sys_created_on>
+            <sys_id>5269bf49db1ea8101161f3e51d961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_snc_aml_txn_em60d" sys_domain="global" view="49979926db052010bc76d54b5e961917">836647b0dbdea810bc76d54b5e961926</sys_ui_section>
+            <sys_updated_by>dond</sys_updated_by>
+            <sys_updated_on>2021-02-11 20:25:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Closure Information</caption>
+            <header>false</header>
+            <name>x_snc_aml_txn_em60d</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2021-02-10 22:04:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>836647b0dbdea810bc76d54b5e961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_aml_txn_em60d</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AML Transaction Case" source="x_snc_aml_txn">eddba5a8db5268101161f3e51d9619b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AML Transaction Case">eddba5a8db5268101161f3e51d9619b9</sys_scope>
+            <sys_update_name>sys_ui_section_836647b0dbdea810bc76d54b5e961926</sys_update_name>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2021-02-10 22:04:24</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">49979926db052010bc76d54b5e961917</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

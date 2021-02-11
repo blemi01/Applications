@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="aml_transaction_case" name="aml_transaction_case">8351bdecdb5268101161f3e51d961995</contains>
+        <role display_value="sn_customerservice.partner" name="sn_customerservice.partner">06d4fc24d7700200e5982cf65e61037e</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>dond</sys_created_by>
+        <sys_created_on>2021-02-09 21:14:22</sys_created_on>
+        <sys_id>9c61fdecdb5268101161f3e51d9619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aml_transaction_case.sn_customerservice.partner</sys_name>
+        <sys_package display_value="AML Transaction Case" source="x_snc_aml_txn">eddba5a8db5268101161f3e51d9619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AML Transaction Case">eddba5a8db5268101161f3e51d9619b9</sys_scope>
+        <sys_update_name>sys_user_role_contains_9c61fdecdb5268101161f3e51d9619ce</sys_update_name>
+        <sys_updated_by>dond</sys_updated_by>
+        <sys_updated_on>2021-02-09 21:14:22</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

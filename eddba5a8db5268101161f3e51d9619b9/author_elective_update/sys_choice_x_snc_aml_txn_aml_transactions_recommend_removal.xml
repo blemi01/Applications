@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="recommend_removal" table="x_snc_aml_txn_aml_transactions" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>recommend_removal</element>
+            <name>x_snc_aml_txn_aml_transactions</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>dond</sys_created_by>
+            <sys_created_on>2021-02-09 21:12:47</sys_created_on>
+            <sys_id>490139ecdb5268101161f3e51d96193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>recommend_removal</sys_name>
+            <sys_package display_value="AML Transaction Case" source="x_snc_aml_txn">eddba5a8db5268101161f3e51d9619b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AML Transaction Case">eddba5a8db5268101161f3e51d9619b9</sys_scope>
+            <sys_update_name>sys_choice_x_snc_aml_txn_aml_transactions_recommend_removal</sys_update_name>
+            <sys_updated_by>dond</sys_updated_by>
+            <sys_updated_on>2021-02-09 21:12:47</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recommend_removal</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_snc_aml_txn_aml_transactions</name>
+            <sequence/>
+            <sys_created_by>dond</sys_created_by>
+            <sys_created_on>2021-02-09 21:12:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c90139ecdb5268101161f3e51d961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dond</sys_updated_by>
+            <sys_updated_on>2021-02-09 21:12:47</sys_updated_on>
+            <value>no</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recommend_removal</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_snc_aml_txn_aml_transactions</name>
+            <sequence/>
+            <sys_created_by>dond</sys_created_by>
+            <sys_created_on>2021-02-09 21:12:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d0139ecdb5268101161f3e51d96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dond</sys_updated_by>
+            <sys_updated_on>2021-02-09 21:12:47</sys_updated_on>
+            <value>yes</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

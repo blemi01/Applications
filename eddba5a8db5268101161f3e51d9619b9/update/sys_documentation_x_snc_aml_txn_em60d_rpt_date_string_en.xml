@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="rpt_date_string" label="rpt date string" language="en" table="x_snc_aml_txn_em60d">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>rpt_date_string</element>
+            <help/>
+            <hint/>
+            <label>rpt date string</label>
+            <language>en</language>
+            <name>x_snc_aml_txn_em60d</name>
+            <plural>rpt date strings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2021-02-11 14:46:55</sys_created_on>
+            <sys_id>10eb6ac1db5aa8101161f3e51d9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>rpt date string</sys_name>
+            <sys_package display_value="AML Transaction Case" source="x_snc_aml_txn">eddba5a8db5268101161f3e51d9619b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AML Transaction Case">eddba5a8db5268101161f3e51d9619b9</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_aml_txn_em60d_rpt_date_string_en</sys_update_name>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2021-02-11 14:46:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
